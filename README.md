@@ -1,23 +1,14 @@
 <style>
-    .markdown-body .callout.callout_warn {
-    --text: #6a737d;  // theme text color default
-    --title: inherit; // theme title color (falls back to text color by default)
-    --background: #f8f8f9;
-    --border: #8b939c;
-    }
-
-    .markdown-body .callout[theme="🎅"] {
-        --background: #c54245;
-        --border: #ffffff6b;
-        --text: #f5fffa;
-    }
-    
-    .green {
-        color: green;
-        font-weight:700;
-        font-size: 30px;
-    }
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
 </style>
+
+<div class="green">
+    Markdown css styles
+</div>
 
 
 <!-- # Port to the Different Lands for Files -->
